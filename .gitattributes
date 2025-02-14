@@ -1,0 +1,6 @@
+*.docx linguist-detectable=true
+*.pdf linguist-detectable=true
+*.jpg linguist-detectable=true
+*.opus linguist-detectable=true
+# *.docx linguist-language=sql
+# *.docx text
